@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp9", "ConsoleApp9\ConsoleApp9.csproj", "{0058E9E7-2240-4F9C-AA7F-FAB97A392C87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Set", "ConsoleApp9\Set.csproj", "{0058E9E7-2240-4F9C-AA7F-FAB97A392C87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
